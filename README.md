@@ -54,4 +54,5 @@ E-commerce-Analysis-project/
   - Scikit-learn 1.0.2
   - Matplotlib 3.5.1
   - Seaborn 0.11.2
+ --
 Thank you for your interest in this project! Feel free to reach out for any questions or collaboration opportunities.
